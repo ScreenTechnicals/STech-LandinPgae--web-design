@@ -1,0 +1,7 @@
+rgb(89, 0, 255)
+
+#ff8800
+
+bxsw: 0 15px 10px #b9b9b9
+
+drpsw: 1px 1px 5px black
